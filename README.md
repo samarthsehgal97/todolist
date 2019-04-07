@@ -1,6 +1,8 @@
 # todo-app
 
 > A Vue.js project
+ hosted on samarthsehgal97.github.io/todolist/dist
+ 
 
 ## Build Setup
 
